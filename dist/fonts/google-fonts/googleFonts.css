@@ -1,0 +1,338 @@
+/* Lato */
+
+@font-face {
+    font-family: 'Lato';
+    src: url('Lato-Bold.eot');
+    src: url('Lato-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Lato-Bold.woff2') format('woff2'),
+        url('Lato-Bold.woff') format('woff'),
+        url('Lato-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('Lato-Light.eot');
+    src: url('Lato-Light.eot?#iefix') format('embedded-opentype'),
+        url('Lato-Light.woff2') format('woff2'),
+        url('Lato-Light.woff') format('woff'),
+        url('Lato-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('Lato-Regular.eot');
+    src: url('Lato-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Lato-Regular.woff2') format('woff2'),
+        url('Lato-Regular.woff') format('woff'),
+        url('Lato-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lato Hairline';
+    src: url('Lato-Hairline.eot');
+    src: url('Lato-Hairline.eot?#iefix') format('embedded-opentype'),
+        url('Lato-Hairline.woff2') format('woff2'),
+        url('Lato-Hairline.woff') format('woff'),
+        url('Lato-Hairline.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
+/* Montserrat */
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('Montserrat-Bold.eot');
+    src: url('Montserrat-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Montserrat-Bold.woff2') format('woff2'),
+        url('Montserrat-Bold.woff') format('woff'),
+        url('Montserrat-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('Montserrat-Light.eot');
+    src: url('Montserrat-Light.eot?#iefix') format('embedded-opentype'),
+        url('Montserrat-Light.woff2') format('woff2'),
+        url('Montserrat-Light.woff') format('woff'),
+        url('Montserrat-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('Montserrat-Medium.eot');
+    src: url('Montserrat-Medium.eot?#iefix') format('embedded-opentype'),
+        url('Montserrat-Medium.woff2') format('woff2'),
+        url('Montserrat-Medium.woff') format('woff'),
+        url('Montserrat-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('Montserrat-Regular.eot');
+    src: url('Montserrat-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Montserrat-Regular.woff2') format('woff2'),
+        url('Montserrat-Regular.woff') format('woff'),
+        url('Montserrat-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('Montserrat-SemiBold.eot');
+    src: url('Montserrat-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('Montserrat-SemiBold.woff2') format('woff2'),
+        url('Montserrat-SemiBold.woff') format('woff'),
+        url('Montserrat-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('Montserrat-Thin.eot');
+    src: url('Montserrat-Thin.eot?#iefix') format('embedded-opentype'),
+        url('Montserrat-Thin.woff2') format('woff2'),
+        url('Montserrat-Thin.woff') format('woff'),
+        url('Montserrat-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+/* Nunito */
+
+@font-face {
+    font-family: 'Nunito';
+    src: url('Nunito-Black.eot');
+    src: url('Nunito-Black.eot?#iefix') format('embedded-opentype'),
+        url('Nunito-Black.woff2') format('woff2'),
+        url('Nunito-Black.woff') format('woff'),
+        url('Nunito-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Nunito';
+    src: url('Nunito-Bold.eot');
+    src: url('Nunito-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Nunito-Bold.woff2') format('woff2'),
+        url('Nunito-Bold.woff') format('woff'),
+        url('Nunito-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Nunito';
+    src: url('Nunito-Light.eot');
+    src: url('Nunito-Light.eot?#iefix') format('embedded-opentype'),
+        url('Nunito-Light.woff2') format('woff2'),
+        url('Nunito-Light.woff') format('woff'),
+        url('Nunito-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Nunito';
+    src: url('Nunito-Regular.eot');
+    src: url('Nunito-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Nunito-Regular.woff2') format('woff2'),
+        url('Nunito-Regular.woff') format('woff'),
+        url('Nunito-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Nunito';
+    src: url('Nunito-SemiBold.eot');
+    src: url('Nunito-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('Nunito-SemiBold.woff2') format('woff2'),
+        url('Nunito-SemiBold.woff') format('woff'),
+        url('Nunito-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Poppins */
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('Poppins-Bold.eot');
+    src: url('Poppins-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Poppins-Bold.woff2') format('woff2'),
+        url('Poppins-Bold.woff') format('woff'),
+        url('Poppins-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('Poppins-Light.eot');
+    src: url('Poppins-Light.eot?#iefix') format('embedded-opentype'),
+        url('Poppins-Light.woff2') format('woff2'),
+        url('Poppins-Light.woff') format('woff'),
+        url('Poppins-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('Poppins-Medium.eot');
+    src: url('Poppins-Medium.eot?#iefix') format('embedded-opentype'),
+        url('Poppins-Medium.woff2') format('woff2'),
+        url('Poppins-Medium.woff') format('woff'),
+        url('Poppins-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('Poppins-Regular.eot');
+    src: url('Poppins-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Poppins-Regular.woff2') format('woff2'),
+        url('Poppins-Regular.woff') format('woff'),
+        url('Poppins-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('Poppins-SemiBold.eot');
+    src: url('Poppins-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('Poppins-SemiBold.woff2') format('woff2'),
+        url('Poppins-SemiBold.woff') format('woff'),
+        url('Poppins-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('Poppins-Thin.eot');
+    src: url('Poppins-Thin.eot?#iefix') format('embedded-opentype'),
+        url('Poppins-Thin.woff2') format('woff2'),
+        url('Poppins-Thin.woff') format('woff'),
+        url('Poppins-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+/* Quicksand */
+
+@font-face {
+    font-family: 'Quicksand';
+    src: url('Quicksand-Bold.eot');
+    src: url('Quicksand-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Quicksand-Bold.woff2') format('woff2'),
+        url('Quicksand-Bold.woff') format('woff'),
+        url('Quicksand-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Quicksand';
+    src: url('Quicksand-Light.eot');
+    src: url('Quicksand-Light.eot?#iefix') format('embedded-opentype'),
+        url('Quicksand-Light.woff2') format('woff2'),
+        url('Quicksand-Light.woff') format('woff'),
+        url('Quicksand-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Quicksand';
+    src: url('Quicksand-Medium.eot');
+    src: url('Quicksand-Medium.eot?#iefix') format('embedded-opentype'),
+        url('Quicksand-Medium.woff2') format('woff2'),
+        url('Quicksand-Medium.woff') format('woff'),
+        url('Quicksand-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Quicksand';
+    src: url('Quicksand-Regular.eot');
+    src: url('Quicksand-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Quicksand-Regular.woff2') format('woff2'),
+        url('Quicksand-Regular.woff') format('woff'),
+        url('Quicksand-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Quicksand';
+    src: url('Quicksand-SemiBold.eot');
+    src: url('Quicksand-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('Quicksand-SemiBold.woff2') format('woff2'),
+        url('Quicksand-SemiBold.woff') format('woff'),
+        url('Quicksand-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Quicksand';
+    src: url('Quicksand-Light_1.eot');
+    src: url('Quicksand-Light_1.eot?#iefix') format('embedded-opentype'),
+        url('Quicksand-Light_1.woff2') format('woff2'),
+        url('Quicksand-Light_1.woff') format('woff'),
+        url('Quicksand-Light_1.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+

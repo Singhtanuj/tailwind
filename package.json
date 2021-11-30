@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "daisyui": "^1.16.2",
+    "tailwindcss": "^2.2.19"
+  },
+  "scripts": {
+    "build:css": "tailwind build assets/css/style.css -o dist/css/tailwind.css"
+  }
+}
