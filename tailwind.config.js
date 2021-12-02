@@ -3,6 +3,13 @@ module.exports = {
   darkMode: false, // or 'media' or 'class'
   theme: {
 
+    extends: {
+      width: {
+        '26': '26%',
+        '1/7': '21.666667%',
+      }
+    },
+
     letterSpacing: {
       widest: '0.5em',
      },
