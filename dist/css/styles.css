@@ -1,3 +1,14 @@
 @import url(./tab.css);
 @import url(./tab_animation.css);
+@import url(./bootstrap.min.css);
 @import url(./tailwind.css);
+@import url(../../node_modules/@fortawesome/fontawesome-free/css/all.min.css);
+
+#instruction{
+    display: none;
+    transition: all 0.5s ease-in-out;
+}
+
+#instruction.active{
+    display: block;
+}

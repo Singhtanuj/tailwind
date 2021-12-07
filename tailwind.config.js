@@ -5,6 +5,7 @@ module.exports = {
 
     extends: {
       width: {
+        '3/15': '15%',
         '26': '26%',
         '1/7': '21.666667%',
       }
@@ -41,4 +42,7 @@ module.exports = {
   plugins: [
     require('daisyui'),
   ],
+  // daisyui: {
+  //   styled: false,
+  // },
 }
